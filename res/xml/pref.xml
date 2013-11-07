@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	<PreferenceCategory android:title="@string/PREF_TITLE_DISP">
+	    <Preference
+			android:key="key_disp_background"
+			android:title="@string/PREF_TITLE_DISP_BACKGROUND"
+			/>
+	</PreferenceCategory>
+	<PreferenceCategory android:title="@string/PREF_TITLE_RSS">
+		<CheckBoxPreference
+			android:key="key_rss_1"
+			android:defaultValue="true"
+			android:title="" />
+		<CheckBoxPreference
+			android:key="key_rss_2"
+			android:defaultValue="true"
+			android:title="" />
+		<CheckBoxPreference
+			android:key="key_rss_3"
+			android:defaultValue="true"
+			android:title="" />
+		<CheckBoxPreference
+			android:key="key_rss_4"
+			android:defaultValue="true"
+			android:title="" />
+		<CheckBoxPreference
+			android:key="key_rss_5"
+			android:defaultValue="true"
+			android:title="" />
+		<CheckBoxPreference
+			android:key="key_rss_6"
+			android:defaultValue="true"
+			android:title="" />
+		<CheckBoxPreference
+			android:key="key_rss_7"
+			android:defaultValue="true"
+			android:title="" />
+		<CheckBoxPreference
+			android:key="key_rss_8"
+			android:defaultValue="true"
+			android:title="" />
+		<CheckBoxPreference
+			android:key="key_rss_9"
+			android:defaultValue="true"
+			android:title="" />
+		<CheckBoxPreference
+			android:key="key_rss_10"
+			android:defaultValue="true"
+			android:title="" />
+		<CheckBoxPreference
+			android:key="key_rss_11"
+			android:defaultValue="true"
+			android:title="" />
+		<CheckBoxPreference
+			android:key="key_rss_12"
+			android:defaultValue="true"
+			android:title="" />
+		<CheckBoxPreference
+			android:key="key_rss_13"
+			android:defaultValue="true"
+			android:title="" />
+		<CheckBoxPreference
+			android:key="key_rss_14"
+			android:defaultValue="true"
+			android:title="" />
+		<CheckBoxPreference
+			android:key="key_rss_15"
+			android:defaultValue="true"
+			android:title="" />
+		<CheckBoxPreference
+			android:key="key_rss_16"
+			android:defaultValue="true"
+			android:title="" />
+		<CheckBoxPreference
+			android:key="key_rss_17"
+			android:defaultValue="true"
+			android:title="" />
+		<CheckBoxPreference
+			android:key="key_rss_18"
+			android:defaultValue="true"
+			android:title="" />
+		<CheckBoxPreference
+			android:key="key_rss_19"
+			android:defaultValue="true"
+			android:title="" />
+		<CheckBoxPreference
+			android:key="key_rss_20"
+			android:defaultValue="true"
+			android:title="" />
+
+	</PreferenceCategory>
+
+</PreferenceScreen>

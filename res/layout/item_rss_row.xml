@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	android:id="@+id/item_container"
+	android:background="#00000000"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:orientation="vertical"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	<TextView
+		android:id="@+id/item_title"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:textColor="#ff000000"
+		android:textSize="18sp"
+		android:lines="2"
+		android:ellipsize="end" />
+	<TextView
+		android:id="@+id/item_date"
+		android:layout_below="@+id/item_title"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textColor="#ff0000ff"
+		android:textSize="10sp" />
+</RelativeLayout>

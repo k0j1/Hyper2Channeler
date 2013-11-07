@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ぽけっと２chねらー</string>
+
+    <string name="btn_select_category">カテゴリを選択</string>
+
+	<string name="BTN_SEARCH_DESCRIPTION">検索ボックス</string>
+    <string name="PROGRESS_MSG_LOADING">データ取得中です\nしばらくお待ちください</string>
+
+    <string name="PREF_TITLE_DISP">表示設定</string>
+    <string name="PREF_TITLE_RSS">検索するまとめサイトの設定</string>
+    <string name="PREF_TITLE_DISP_BACKGROUND">背景色の設定</string>
+
+    <string name="DLG_DISP_SETTING_BACKGROUND_1">デフォルト</string>
+    <string name="DLG_DISP_SETTING_BACKGROUND_2">グラデーション（緑）</string>
+
+    <string-array name="category">
+        <item>カテゴリを選択</item>
+        <item>炎上</item>
+        <item>アニメ</item>
+        <item>ゲーム</item>
+        <item>コピペ</item>
+        <item>画像</item>
+        <item>SS</item>
+        <item>スポーツ</item>
+        <item>事件・事故</item>
+        <item>エンタメ</item>
+    </string-array>
+
+    <string-array name="rss_url">
+        <item>http://hamusoku.com/atom.xml</item>
+        <item>http://himasoku.com/atom.xml</item>
+        <item>http://alfalfalfa.com/index.rdf</item>
+        <item>http://news.2chblog.jp/index.rdf</item>
+        <item>http://newtou.info/rss.xml</item>
+        <item>http://news020.blog13.fc2.com/?xml</item>
+        <item>http://blog.livedoor.jp/jyoushiki43/atom.xml</item>
+        <item>http://hypernews.2chblog.jp/atom.xml</item>
+        <item>http://watch2ch.2chblog.jp/index.rdf</item>
+        <item>http://pika2.livedoor.biz/index.rdf</item>
+
+        <item>http://matometanews.com/index.rdf</item>
+        <item>http://blog.livedoor.jp/dqnplus/atom.xml</item>
+        <item>http://blog.livedoor.jp/chihhylove/index.rdf</item>
+        <item>http://gahalog.2chblog.jp/atom.xml</item>
+        <item>http://blog.livedoor.jp/news23vip/atom.xml</item>
+        <item>http://vipsister23.com/index.rdf</item>
+        <item>http://workingnews.blog117.fc2.com/?xml</item>
+        <item>http://blog.livedoor.jp/kinisoku/index.rdf</item>
+        <item>http://suiseisekisuisui.blog107.fc2.com/?xml</item>
+        <item>http://lifehack2ch.livedoor.biz/atom.xml</item>
+    </string-array>
+
+    <string-array name="rss_site_name">
+        <item>【ﾊﾑｽﾀｰ速報】</item>
+        <item>【暇人速報】</item>
+        <item>【ｱﾙﾌｧﾙﾌｧﾓｻﾞｲｸ】</item>
+        <item>【ｺﾋﾟﾍﾟ情報局】</item>
+        <item>【ﾆｭｰ投】</item>
+        <item>【ﾆｭｰｽ2ちゃんねる】</item>
+        <item>【常識的に考えた】</item>
+        <item>【Hyper News 2ch】</item>
+        <item>【watch@2ﾁｬﾝﾈﾙ】</item>
+        <item>【ﾋﾟｶﾋﾟｶﾆｭｰｽ2ch】</item>
+
+        <item>【まとめたﾆｭｰｽ】</item>
+        <item>【痛いﾆｭｰｽ】</item>
+        <item>【あじゃじゃしたー】</item>
+        <item>【ガハろぐNews】</item>
+        <item>【VIPPERな俺】</item>
+        <item>【妹はVIPPER】</item>
+        <item>【働くﾓﾉﾆｭｰｽ】</item>
+        <item>【ｷﾆ速】</item>
+        <item>【すくいぬ】</item>
+        <item>【LifehackCh弐式】</item>
+    </string-array>
+
+</resources>
